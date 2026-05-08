@@ -6,8 +6,8 @@ function Login() {
   const navigate = useNavigate();
 
   const [form, setForm] = useState({
-    email: "admin@example.com",
-    password: "123456",
+    email: "",
+    password: "",
   });
 
   const handleLogin = async (e) => {

@@ -396,7 +396,6 @@ Dashboard
 ## Raunaque Khan
 
 - GitHub: https://github.com/raunaque21278
-- LinkedIn: https://www.linkedin.com/
 
 ---
 
